@@ -1,0 +1,11 @@
+C:\Users\maste\Documents\Programming\dotnet\FoxCheckers\bin\Debug\netcoreapp3.1\FoxCheckers.exe
+C:\Users\maste\Documents\Programming\dotnet\FoxCheckers\bin\Debug\netcoreapp3.1\FoxCheckers.deps.json
+C:\Users\maste\Documents\Programming\dotnet\FoxCheckers\bin\Debug\netcoreapp3.1\FoxCheckers.runtimeconfig.json
+C:\Users\maste\Documents\Programming\dotnet\FoxCheckers\bin\Debug\netcoreapp3.1\FoxCheckers.runtimeconfig.dev.json
+C:\Users\maste\Documents\Programming\dotnet\FoxCheckers\bin\Debug\netcoreapp3.1\FoxCheckers.dll
+C:\Users\maste\Documents\Programming\dotnet\FoxCheckers\bin\Debug\netcoreapp3.1\FoxCheckers.pdb
+C:\Users\maste\Documents\Programming\dotnet\FoxCheckers\obj\Debug\netcoreapp3.1\FoxCheckers.csprojAssemblyReference.cache
+C:\Users\maste\Documents\Programming\dotnet\FoxCheckers\obj\Debug\netcoreapp3.1\FoxCheckers.AssemblyInfoInputs.cache
+C:\Users\maste\Documents\Programming\dotnet\FoxCheckers\obj\Debug\netcoreapp3.1\FoxCheckers.AssemblyInfo.cs
+C:\Users\maste\Documents\Programming\dotnet\FoxCheckers\obj\Debug\netcoreapp3.1\FoxCheckers.dll
+C:\Users\maste\Documents\Programming\dotnet\FoxCheckers\obj\Debug\netcoreapp3.1\FoxCheckers.pdb

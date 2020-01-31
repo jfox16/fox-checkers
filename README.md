@@ -1,5 +1,5 @@
 # Fox Checkers
-Checkers 'Lite' Console Application written in C# and .NET
+Checkers 'Lite' Console Application written in C# and .NET by Jonathan Fox
 
 ### How to Run:
 1. Navigate to the repository.
